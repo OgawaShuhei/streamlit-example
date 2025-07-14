@@ -1,2 +1,11 @@
 # streamlit-example
-create in during class
+授業中に作成
+
+このアプリは、ユーザーからxxxを受け取って、xxxAPIを使って、XXX処理して、XXを表示します。
+
+(.mdは、マークダウン記法という書き方です。調べてみてね。)
+
+## システム図
+![alt](url)
+
+## コード説明図
